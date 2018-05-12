@@ -1,0 +1,24 @@
+_repo: Edward-MacDowell--13-His-Work-and-Ideals_13767
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Page, Elizabeth Fry
+    gutenberg_agent_id: '5212'
+    url: http://www.gutenberg.org/2009/agents/5212
+description: ''
+gutenberg_issued: '2004-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13767'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'MacDowell, Edward, 1860-1908'
+- !lcc 'ML'
+title: "Edward MacDowell\r\nHis Work and Ideals"
+url: http://www.gutenberg.org/ebooks/13767
